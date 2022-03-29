@@ -1,0 +1,32 @@
+[
+  {
+    "id":1,
+    "nombre":"Alfredo",
+    "correo":"alfredo@mailinator.com"
+  },
+  {
+    "id":2,
+    "nombre":"Benito",
+    "correo":"benito@mailinator.com"
+  },
+  {
+    "id":3,
+    "nombre":"Carlos",
+    "correo":"carlos@mailinator.com"
+  },
+  {
+    "id":4,
+    "nombre":"Gustavo",
+    "correo":"gustavo@mailinator.com"
+  },
+  {
+    "id":5,
+    "nombre":"Silverio",
+    "correo":"silverio@mailinator.com"
+  },
+  {
+    "id":6,
+    "nombre":"Zyan",
+    "correo":"zyan@mailinator.com"
+  },
+]
